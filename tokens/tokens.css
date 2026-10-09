@@ -1,0 +1,23 @@
+:root {
+  --sk-bg: #f7f8fa;
+  --sk-surface: #ffffff;
+  --sk-ink: #15191e;
+  --sk-muted: #59616c;
+  --sk-border: #cfd6df;
+  --sk-accent: #2458d5;
+  --sk-accent-soft: #e9efff;
+  --sk-positive: #227355;
+  --sk-warning: #b45e22;
+  --sk-danger: #b43333;
+  --sk-font-heading: Poppins, Inter, system-ui, sans-serif;
+  --sk-font-body: Inter, system-ui, sans-serif;
+  --sk-radius: 2px;
+  --sk-space-1: 4px;
+  --sk-space-2: 8px;
+  --sk-space-3: 12px;
+  --sk-space-4: 16px;
+  --sk-space-6: 24px;
+  --sk-space-8: 32px;
+  --sk-reading-width: 760px;
+  --sk-content-width: 1200px;
+}
